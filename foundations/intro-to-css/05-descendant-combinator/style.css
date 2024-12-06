@@ -1,0 +1,12 @@
+div .text {
+    background-color: #bcff00;
+    color: #f24444;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Se combino un selector de elemento con uno de clase para pruebas,
+pero lo correcto a mi parecer seria:
+
+.container .text
+*/
